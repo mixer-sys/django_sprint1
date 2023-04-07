@@ -6,6 +6,6 @@
 ## Миллионы блогов по различным темам. Путешествия, политики, развлечения, мода, мода, литература, дизайн и все другие сферы человеческой деятельности.
 
 ![Screenshot](Image.png)
-![Screenshot](Image 2.png)
-![Screenshot](Image 3.png)
-![Screenshot](Image 4.png)
+![Screenshot](Image2.png)
+![Screenshot](Image3.png)
+![Screenshot](Image4.png)
